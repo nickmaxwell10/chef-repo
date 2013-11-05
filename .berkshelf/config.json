@@ -1,0 +1,16 @@
+{
+  "chef": {
+    "chef_server_url": "https://api.opscode.com/organizations/nickmaxwell10",
+    "validation_client_name": "nickmaxwell10-validator",
+    "validation_key_path": ".chef/nickmaxwell10-validator.pem",
+    "client_key": ".chef/nickmaxwell10.pem",
+    "node_name": "nickmaxwell10"
+  },
+  "vagrant": {
+    "vm": {
+      "box": "opscode-ubuntu-12.04-i386",
+      "box_url": "https://opscode-vm.s3.amazonaws.com/vagrant/opscode_ubuntu-12.04-i386_provisionerless.box",
+      "provision": "chef_client"
+    }
+  }
+}
