@@ -23,6 +23,8 @@ site :opscode
 # constraint. It will pick up any additional patch (bug) releases, but
 # will keep the minor version locked at 101. In other words, 0.101.X.
 # cookbook "nginx", "~> 0.101.5"
+cookbook 'memcached',     '~> 1.3.0'
+cookbook 'redisio',       '~> 1.4.1'
 
 # Berkshelf also allows you to define git locations. Uncomment the following line
 # to download the latest master branch from github for this cookbook.
