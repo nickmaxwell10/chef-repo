@@ -1,0 +1,7 @@
+{
+    "id": "nick",
+    "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCpnoTkFeSD9fvXUI3T37/GH72EWmjt4wSv2ZnvFIYfZJZY2GAyHQDyHqberwC2HEykF/FrXaln1EGjWGHFHk8rl29IpO+SenY3DgmyMB7pCSBiUA9f1Y/0Wv5QKvCEM7nxg4ifA9hY40meU9kTkquZhOq33YNE/fz9C47o7t/YUNp1jmCPDcQRc8aH8FCKfmAWkQf1aBdwHtmG6X/mJSCa8yJoM+4/YUdPCj0a0vZij7EB/Wj3RFM/v4nr/aFNJSKVTurZxyKztdwQx/Bi1qh9QMeueiv6RrDRuhzCh/NGwIrbveLHgIqUOdKXGCJn+5ccSw6aDUXac82qZWhkwJCV nickmaxwell10@gmail.com",
+    "groups": [ "sysadmin", "dba", "devops" ],
+    "uid": 2001,
+    "shell": "\/bin\/bash"
+}
